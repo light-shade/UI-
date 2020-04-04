@@ -6,6 +6,6 @@ UI素材网资源下载多线程版
 
 # 程序运行
 
-运行spider.py即可
+运行spider.py
 
 
